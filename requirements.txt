@@ -4,4 +4,6 @@ numpy
 pillow
 pytesseract
 beautifulsoup4
+flask
+gunicorn
 # hmac, hashlib, json sudah built-in Python
