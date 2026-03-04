@@ -1,0 +1,7 @@
+requests
+opencv-python-headless
+numpy
+pillow
+pytesseract
+beautifulsoup4
+# hmac, hashlib, json sudah built-in Python
