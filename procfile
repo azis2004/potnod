@@ -1,1 +1,1 @@
-worker: python vsphone_autoreff.py
+web: gunicorn server:app
